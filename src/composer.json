@@ -1,0 +1,19 @@
+{
+    "name": "ezequieldhonatan/microservices-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ezequieldhonatan\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ezequiel Dhonatan",
+            "email": "Contato@ezequieldhonatan.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
